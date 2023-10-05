@@ -4,4 +4,4 @@ from typing import List
 
 def sum_list(input_list: [float]) -> float:
     """sum_list: type-annotated function"""
-    return sum(input_list)
+    return float(sum(input_list))
