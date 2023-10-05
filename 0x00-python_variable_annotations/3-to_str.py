@@ -7,5 +7,5 @@ def to_str(n: float) -> str:
     a float n as argument
     and returns the string 
     representation of the float."""
-    return str(n)
+    return str(n,)
     
