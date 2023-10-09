@@ -1,5 +1,7 @@
 #!usr/bin/env python3
 """imported wait_random from the previous python file"""
+import async
+import random
 
 wait_random = __import__('0-basic_async_syntax').wait_random
 
