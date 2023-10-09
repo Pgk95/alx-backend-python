@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """importing wait_n module from previous task"""
 
 import time
